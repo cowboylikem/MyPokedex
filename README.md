@@ -26,11 +26,10 @@ npm install -g expo-cli
 
 ### Instalar dependências
 
-```bash
+```
 cd MyPokedex
 npm install
-
-
+```
 # Start do projeto
 cmd -> npx expo start
 Aperte W para visualizacao no seu navegador
