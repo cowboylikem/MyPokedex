@@ -20,8 +20,8 @@ Este projeto foi desenvolvido para >fins acadêmicos<, com o propósito de prati
 
 Instale o Expo CLI com o seguinte comando:
 
-```bash
 npm install -g expo-cli
+
 
 
 ### Instalar dependências
