@@ -36,6 +36,8 @@ npx expo start
 ```
 Aperte W para visualizacao no seu navegador
 
+Para navegar nas telas, modifique a rota no arquivo principal App.js.
+
 # Visualizacao no celular
 
 Baixe o app Expo Go na Play Store ou App Store;
