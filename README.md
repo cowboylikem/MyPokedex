@@ -18,10 +18,12 @@ Este projeto foi desenvolvido para >fins acadêmicos<, com o propósito de prati
 Node.js
 Expo CLI
 
-# Instalar dependências
+### Instalar dependências
 
-cmd -> cd MyPokedex
-cmd -> npm install
+```bash
+cd MyPokedex
+npm install
+
 
 # Start do projeto
 cmd -> npx expo start
