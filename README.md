@@ -13,7 +13,7 @@ Este projeto foi desenvolvido para >fins acadêmicos<, com o propósito de prati
 - Expo
 - JavaScript
 
-## ✅ Pré-requisitos
+## Pré-requisitos
 
 - [Node.js](https://nodejs.org/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
@@ -29,7 +29,7 @@ cd MyPokedex
 npm install
 ```
 # Start do projeto
-cmd -> npx expo start
+```npx expo start```
 Aperte W para visualizacao no seu navegador
 
 # Visualizacao no celular
