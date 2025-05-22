@@ -20,7 +20,9 @@ Este projeto foi desenvolvido para >fins acadêmicos<, com o propósito de prati
 
 Instale o Expo CLI com o seguinte comando:
 
-```npm install -g expo-cli```
+```
+npm install -g expo-cli
+```
 
 ### Instalar dependências
 
@@ -29,7 +31,9 @@ cd MyPokedex
 npm install
 ```
 # Start do projeto
-```npx expo start```
+```
+npx expo start
+```
 Aperte W para visualizacao no seu navegador
 
 # Visualizacao no celular
