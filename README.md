@@ -13,10 +13,18 @@ Este projeto foi desenvolvido para >fins acadêmicos<, com o propósito de prati
 - Expo
 - JavaScript
 
-# Pré-requisitos para execucao
+## ✅ Pré-requisitos
 
-Node.js
-Expo CLI
+Antes de começar, você vai precisar ter instalado em sua máquina:
+
+- [Node.js](https://nodejs.org/)
+- [Expo CLI](https://docs.expo.dev/get-started/installation/)
+
+Instale o Expo CLI com o seguinte comando:
+
+```bash
+npm install -g expo-cli
+
 
 ### Instalar dependências
 
