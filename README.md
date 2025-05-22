@@ -15,8 +15,6 @@ Este projeto foi desenvolvido para >fins acadêmicos<, com o propósito de prati
 
 ## ✅ Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina:
-
 - [Node.js](https://nodejs.org/)
 - [Expo CLI](https://docs.expo.dev/get-started/installation/)
 
